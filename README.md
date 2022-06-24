@@ -1,7 +1,9 @@
+### https://app.patika.dev/desmeron 
+<u>[***Benim patika profilim***](https://app.patika.dev/desmeron)</u>
+
 # Kodluyoruz llk Repo
 
-Bu repo
-<u>[Kodluyoruz](https://www.kodluyoruz.org/)</u> Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
+Bu repo <u>[Kodluyoruz](https://www.kodluyoruz.org/)</u> Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
 ## Installation
 
